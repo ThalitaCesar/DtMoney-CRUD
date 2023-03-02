@@ -1,9 +1,9 @@
 # DT Money 
 
-## Sobre
-O DT money é um aplicação web realizada no react js com typescript capaz de gerenciar finanças, permite o cadastro de entradas e saídas. 
+## About
+DT money is a web application created in React.js with typescript that manages finances. The application allows the registration of entries and exits and visualization of the balance.
 
-## Tecnologias
+## Technologies
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -13,26 +13,24 @@ O DT money é um aplicação web realizada no react js com typescript capaz de g
 - [Polished](https://polished.js.org/)
 
 
-## Instalação e uso
+## Installation and start 
 
 ```bash
-# Abra um terminal e copie este repositório com o comando
-git clone https://github.com/ThalitaCesar/Ignite-React-Js/tree/main/DtMoney
+# Open a terminal and copy this repository with the command
+git clone https://github.com/ThalitaCesar/DtMoney-CRUD
 
-# Entre na pasta web com 
-cd DtMoney
+# Install the dependencies
+yarn 
 
-# Instale as dependências
-yarn install
-
-# Rode a aplicação
+# Run the application
 yarn start
 ```
 
 
-![Capa](https://user-images.githubusercontent.com/83131771/186640759-122bc5d9-dea3-4ca1-8e86-97937e20eb6d.png)
+![dtmoney](https://user-images.githubusercontent.com/83131771/222440422-75e6a02c-60fe-40dc-94dc-56709a74d2c8.png)
 
 
+![dtmoneymodal](https://user-images.githubusercontent.com/83131771/222440419-ef49a50c-ae71-469a-b792-5999fc86d444.png)
 
 
 
